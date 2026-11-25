@@ -660,6 +660,7 @@ dehdlhl
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 -[Rijul Kathpal](https://github.com/rijulkathpalnitw-sys)
 - [Baljit Panda](https://github.com/olympus-mons26)
+- Josh
 - [Shota Sotiris Oniani](https://shotaoniani.ge) - Check out my website ;)
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
